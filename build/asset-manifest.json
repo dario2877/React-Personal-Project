@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.86547460.chunk.css",
-    "main.js": "/static/js/main.b68a1db2.chunk.js",
-    "main.js.map": "/static/js/main.b68a1db2.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.861ca2e1.js",
-    "runtime-main.js.map": "/static/js/runtime-main.861ca2e1.js.map",
-    "static/css/2.31461e4f.chunk.css": "/static/css/2.31461e4f.chunk.css",
-    "static/js/2.78406fc3.chunk.js": "/static/js/2.78406fc3.chunk.js",
-    "static/js/2.78406fc3.chunk.js.map": "/static/js/2.78406fc3.chunk.js.map",
-    "static/js/3.464c2f18.chunk.js": "/static/js/3.464c2f18.chunk.js",
-    "static/js/3.464c2f18.chunk.js.map": "/static/js/3.464c2f18.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.31461e4f.chunk.css.map": "/static/css/2.31461e4f.chunk.css.map",
-    "static/css/main.86547460.chunk.css.map": "/static/css/main.86547460.chunk.css.map",
-    "static/js/2.78406fc3.chunk.js.LICENSE.txt": "/static/js/2.78406fc3.chunk.js.LICENSE.txt",
-    "static/media/app.css": "/static/media/SEGA.47b4bfa9.woff"
+    "main.css": "/React-Personal-Project/static/css/main.dc67cc09.chunk.css",
+    "main.js": "/React-Personal-Project/static/js/main.312c782d.chunk.js",
+    "main.js.map": "/React-Personal-Project/static/js/main.312c782d.chunk.js.map",
+    "runtime-main.js": "/React-Personal-Project/static/js/runtime-main.ce210cab.js",
+    "runtime-main.js.map": "/React-Personal-Project/static/js/runtime-main.ce210cab.js.map",
+    "static/css/2.31461e4f.chunk.css": "/React-Personal-Project/static/css/2.31461e4f.chunk.css",
+    "static/js/2.548a6e86.chunk.js": "/React-Personal-Project/static/js/2.548a6e86.chunk.js",
+    "static/js/2.548a6e86.chunk.js.map": "/React-Personal-Project/static/js/2.548a6e86.chunk.js.map",
+    "static/js/3.464c2f18.chunk.js": "/React-Personal-Project/static/js/3.464c2f18.chunk.js",
+    "static/js/3.464c2f18.chunk.js.map": "/React-Personal-Project/static/js/3.464c2f18.chunk.js.map",
+    "index.html": "/React-Personal-Project/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/React-Personal-Project/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.dc67cc09.chunk.css.map": "/React-Personal-Project/static/css/main.dc67cc09.chunk.css.map",
+    "static/js/2.548a6e86.chunk.js.LICENSE.txt": "/React-Personal-Project/static/js/2.548a6e86.chunk.js.LICENSE.txt",
+    "static/media/app.css": "/React-Personal-Project/static/media/SEGA.47b4bfa9.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.861ca2e1.js",
+    "static/js/runtime-main.ce210cab.js",
     "static/css/2.31461e4f.chunk.css",
-    "static/js/2.78406fc3.chunk.js",
-    "static/css/main.86547460.chunk.css",
-    "static/js/main.b68a1db2.chunk.js"
+    "static/js/2.548a6e86.chunk.js",
+    "static/css/main.dc67cc09.chunk.css",
+    "static/js/main.312c782d.chunk.js"
   ]
 }
